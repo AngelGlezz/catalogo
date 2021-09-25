@@ -1,0 +1,500 @@
+@font-face
+{
+   font-family: "Proxima-Nova-Black";
+   src: url(../fonts/proxima_ssv/Proxima-Nova-Black.otf) format("opentype");
+}
+
+@font-face
+{
+   font-family: "Proxima-Nova-Bold";
+   src: url(../fonts/proxima_ssv/Proxima-Nova-Bold.otf) format("opentype");
+}
+
+@font-face
+{
+   font-family: "Proxima-Nova-Extrabold";
+   src: url(../fonts/proxima_ssv/Proxima-Nova-Extrabold.otf) format("opentype");
+}
+
+@font-face
+{
+   font-family: "Proxima-Nova-Regular";
+   src: url(../fonts/proxima_ssv/Proxima-Nova-Regular.otf) format("opentype");
+}
+
+@font-face
+{
+   font-family: "BodoniModa-Black";
+   src: url(../fonts/Bodoni_Moda/BodoniModa-Black.ttf) format("opentype");
+}
+
+@font-face
+{
+   font-family: "BodoniModa-Bold";
+   src: url(../fonts/Bodoni_Moda/BodoniModa-Bold.ttf) format("opentype");
+}
+
+@font-face
+{
+   font-family: "BodoniModa-ExtraBold";
+   src: url(../fonts/Bodoni_Moda/BodoniModa-ExtraBold.ttf) format("opentype");
+}
+
+@font-face
+{
+   font-family: "BodoniModa-Regular";
+   src: url(../fonts/Bodoni_Moda/BodoniModa-Regular.ttf) format("opentype");
+}
+
+#cover {
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.logo {
+    background-image: url(../images/zindra.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 132%;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+#cover-info {
+    width: 300px;
+    height: 270px;
+    font-family: 'Proxima-Nova-Extrabold', sans-serif;
+    color: #fff;
+    font-size: 40px;
+    letter-spacing: 0.13px;
+    text-align: center;
+    overflow: auto;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+
+#cover-info span {
+    font-size: 20px;
+    text-align: right;
+}
+
+#info-logo {
+    width: 100px;
+    height: 100px;
+    margin: 0px auto 50px auto;
+    background-image: url(../images/zindra.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 132%;
+}
+
+.container {
+    padding: 0px!important;
+    overflow: auto;
+}
+
+#navbarTogglerDemo02 {
+    justify-content: flex-end;
+}
+
+.navbar {
+    width: 100%;
+    height: 100px;
+    background-color: #4e4e4e;
+    z-index: 9999;
+    padding: 0px!important;
+    align-items: self-start!important;
+}
+
+.navbar .container {
+    max-width: 90%!important;
+    min-height: 100%;
+}
+
+.navbar-brand {
+    max-width: 243px;
+    width: 243px;
+    height: 44px;
+    font-family: 'Proxima-Nova-Extrabold', sans-serif;
+    color: #fff;
+    font-size: 40px;
+    letter-spacing: 0.13px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.navbar-toggler-icon {
+    background-image: url(../images/menu.svg) !important;
+}
+
+#navbarTogglerDemo02 {
+    background-color: #4e4e4e;
+    z-index: 9999;
+}
+
+.nav-link {
+    color: #fff;
+    font-size: 18px;
+    letter-spacing: 0.45px;
+    text-align: left;
+    margin-right: 2rem;
+    font-family: 'Proxima-Nova-Regular', sans-serif;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.nav-link:hover {
+    color: #fff;
+}
+
+#our-section {
+    padding: 60px 0px;
+}
+
+.catalogo {
+    width: 220px;
+    height: 320px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.link-catalogo:nth-of-type(1) .catalogo {
+    background-image: url(../images/Kidsotonoinvierno2021_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(2) .catalogo {
+    background-image: url(../images/Manotonoinvierno2021_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(3) .catalogo {
+    background-image: url(../images/Abrigadorotonoinvierno2021_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(4) .catalogo {
+    background-image: url(../images/101618396_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(5) .catalogo {
+    background-image: url(../images/Ella2021OtoInv_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(6) .catalogo {
+    background-image: url(../images/101143596_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(7) .catalogo {
+    background-image: url(../images/jeansotoinv2021_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(8) .catalogo {
+    background-image: url(../images/Botas2021_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(9) .catalogo {
+    background-image: url(../images/botaslluvia2021_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(10) .catalogo {
+    background-image: url(../images/Escolar2021_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(11) .catalogo {
+    background-image: url(../images/Mochilas2021_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(12) .catalogo {
+    background-image: url(../images/T1_2021_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(13) .catalogo {
+    background-image: url(../images/KidsT1_2021_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(14) .catalogo {
+    background-image: url(../images/Caballeros20_21_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(15) .catalogo {
+    background-image: url(../images/LovetoLounge_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(16) .catalogo {
+    background-image: url(../images/Accesorios2021_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(17) .catalogo {
+    background-image: url(../images/VestirCasual2021_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(18) .catalogo {
+    background-image: url(../images/Confort2021_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(19) .catalogo {
+    background-image: url(../images/Vogue2021_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(20) .catalogo {
+    background-image: url(../images/zindra-perfumes.jpeg);
+}
+
+.link-catalogo:nth-of-type(21) .catalogo {
+    background-image: url(../images/zindra-gafas.jpeg);
+}
+
+.link-catalogo:nth-of-type(22) .catalogo {
+    background-image: url(../images/zindra-watch.jpeg);
+}
+
+#our-section .container {
+    overflow: hidden!important;
+}
+
+.title-section {
+    width: 100%;
+    font-size: 48px;
+    color: #363636;
+    font-family: 'Proxima-Nova-Black', sans-serif;
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+ #contact-section .container .title-section {
+    text-align: left;
+}
+
+#contact-section {
+    width: 100%;
+    padding: 60px 0px;
+    background-color: #fff;
+}
+
+.title-contact {
+    font-family: 'Proxima-Nova-Bold', sans-serif;
+    font-size: 30px;
+    color: #363636;
+}
+
+.email-contact {
+    font-family: 'Proxima-Nova-Regular', sans-serif;
+    font-size: 22px;
+    color: #aaaaaa;
+}
+
+#footer-section {
+    width: 100%;
+    padding: 50px 0px;
+    background-color: #000;
+}
+
+#footer-section .container {
+    overflow: auto;
+    position: relative;
+}
+
+#footer-section .container .logo {
+    width: 100px;
+    height: 100px;
+    float: left;
+    position: initial;
+}
+
+#combo {
+    float: right;
+    width: 350px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+#date-dev {
+    color: #fff;
+    font-size: 14px;
+    font-family: 'Proxima-Nova-Regular';
+    float: right;
+}
+
+@media screen and (max-width: 1210px) {
+    .brand-img {
+        width: 80%;
+    }
+
+    .our-title {
+        font-size: 35px;
+    }
+
+    .our-title-es {
+        font-size: 33px;
+    }
+
+    .out-txt {
+        font-size: 20px;
+        height: 220px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .navbar-brand {
+        background-image: url(../images/underdog.png);
+        width: 80px;
+        max-width: 80px;
+    }
+
+    #our-section .container {
+        max-width: 90%!important;
+    }
+
+    .our-container {
+        max-width: 32.1% !important;
+    }
+
+    .out-txt {
+        height: 300px;
+    }
+
+    .our-txt-es {
+        height: 440px;
+    }
+}
+
+@media screen and (max-width: 831px) {
+    .navbar-brand{
+        display: none!important;
+    }
+
+    .our-title {
+        font-size: 27px;
+        line-height: 35px;
+    }
+
+    .out-txt {
+        font-size: 17px;
+        height: 220px;
+    }
+
+    .our-txt-es {
+        height: 380px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .navbar {
+        height: 50px!important;
+    }
+
+    .navbar-brand{
+        display: block!important;
+        max-width: 150px;
+        height: 30px;
+        width: 100%;
+        background-image: url(../images/underdog-h.png);
+    }
+
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding-right: .45rem!important;
+    }
+
+    .nav-item {
+        margin-left: 15px;
+    }
+
+    #our-section .container {
+        width: 475px!important;
+    }
+
+    .container {
+        width: 90%!important;
+        margin: 0px auto!important;
+    }
+
+    .navbar .container {
+        max-width: 100%!important;
+        width: 100%!important;
+        margin: 0px!important;
+    }
+
+    .navbar .container .container {
+        max-width: 100%!important;
+        width: 100%!important;
+        margin: 0px!important;
+        min-height: 50px!important;
+    }
+
+    .navbar-toggler-icon {
+        width: 25px!important;
+        height: 25px!important;
+    }
+
+   #contact-section .container .title-section {
+        text-align: center;
+    }
+
+    .our-container {
+        max-width: 90%!important;
+        margin: 0px auto 100px auto!important;
+    }
+
+    .out-txt {
+        height: 120px;
+    }
+
+    #combo {
+        float: none;
+        width: 126px;
+        position: initial;
+        overflow: auto;
+        margin: auto;
+    }
+
+    #date-dev {
+        text-align: center;
+    }
+
+    .our-container {
+        margin: 0px auto 50px auto !important;
+    }
+
+    .our-title, .out-txt {
+        height: auto!important;
+    }
+
+    .title-section {
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 576px){
+    .navbar .container .container{
+        width:auto;
+    }
+
+    #our-section .container {
+        width: 220px!important;
+    }
+}
+
+@media screen and (max-width: 467px) {
+    .title-contact {
+        font-size: 25px;
+    }
+
+    .email-contact {
+        font-size: 20px;
+    }
+}
