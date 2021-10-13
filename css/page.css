@@ -103,6 +103,16 @@
     background-size: 132%;
 }
 
+#banner {
+    width: 90%;
+    height: 450px;
+    margin: 0px auto 50px auto;
+    background-image: url(../images/promo-makeup.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
 .container {
     padding: 0px!important;
     overflow: auto;
@@ -350,12 +360,6 @@
 }
 
 @media screen and (max-width: 991px) {
-    .navbar-brand {
-        background-image: url(../images/underdog.png);
-        width: 80px;
-        max-width: 80px;
-    }
-
     #our-section .container {
         max-width: 90%!important;
     }
@@ -398,12 +402,8 @@
         height: 50px!important;
     }
 
-    .navbar-brand{
-        display: block!important;
-        max-width: 150px;
-        height: 30px;
-        width: 100%;
-        background-image: url(../images/underdog-h.png);
+    #banner {
+        height: 300px;
     }
 
     .navbar-expand-md .navbar-nav .nav-link {
@@ -496,5 +496,9 @@
 
     .email-contact {
         font-size: 20px;
+    }
+
+    #banner {
+        height: 180px;
     }
 }
