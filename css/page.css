@@ -185,90 +185,102 @@
 }
 
 .link-catalogo:nth-of-type(1) .catalogo {
-    background-image: url(../images/Kidsotonoinvierno2021_0.jpeg);
+    background-image: url(../images/importadoswinter2021_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(2) .catalogo {
-    background-image: url(../images/Manotonoinvierno2021_0.jpeg);
+    background-image: url(../images/KidsT1OI21_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(3) .catalogo {
-    background-image: url(../images/Abrigadorotonoinvierno2021_0.jpeg);
+    background-image: url(../images/todoenuno21_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(4) .catalogo {
-    background-image: url(../images/101618396_0.jpeg);
+    background-image: url(../images/Kidsotonoinvierno2021_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(5) .catalogo {
-    background-image: url(../images/Ella2021OtoInv_0.jpeg);
+    background-image: url(../images/Manotonoinvierno2021_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(6) .catalogo {
-    background-image: url(../images/101143596_0.jpeg);
+    background-image: url(../images/Abrigadorotonoinvierno2021_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(7) .catalogo {
-    background-image: url(../images/jeansotoinv2021_0.jpeg);
+    background-image: url(../images/101618396_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(8) .catalogo {
-    background-image: url(../images/Botas2021_0.jpeg);
+    background-image: url(../images/Ella2021OtoInv_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(9) .catalogo {
-    background-image: url(../images/botaslluvia2021_0.jpeg);
+    background-image: url(../images/101143596_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(10) .catalogo {
-    background-image: url(../images/Escolar2021_0.jpeg);
+    background-image: url(../images/jeansotoinv2021_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(11) .catalogo {
-    background-image: url(../images/Mochilas2021_0.jpeg);
+    background-image: url(../images/Botas2021_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(12) .catalogo {
-    background-image: url(../images/T1_2021_0.jpeg);
+    background-image: url(../images/botaslluvia2021_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(13) .catalogo {
-    background-image: url(../images/KidsT1_2021_0.jpeg);
+    background-image: url(../images/Escolar2021_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(14) .catalogo {
-    background-image: url(../images/Caballeros20_21_0.jpeg);
+    background-image: url(../images/Mochilas2021_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(15) .catalogo {
-    background-image: url(../images/LovetoLounge_0.jpeg);
+    background-image: url(../images/T1_2021_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(16) .catalogo {
-    background-image: url(../images/Accesorios2021_0.jpeg);
+    background-image: url(../images/KidsT1_2021_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(17) .catalogo {
-    background-image: url(../images/VestirCasual2021_0.jpeg);
+    background-image: url(../images/Caballeros20_21_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(18) .catalogo {
-    background-image: url(../images/Confort2021_0.jpeg);
+    background-image: url(../images/LovetoLounge_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(19) .catalogo {
-    background-image: url(../images/Vogue2021_0.jpeg);
+    background-image: url(../images/Accesorios2021_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(20) .catalogo {
-    background-image: url(../images/zindra-perfumes.jpeg);
+    background-image: url(../images/VestirCasual2021_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(21) .catalogo {
-    background-image: url(../images/zindra-gafas.jpeg);
+    background-image: url(../images/Confort2021_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(22) .catalogo {
+    background-image: url(../images/Vogue2021_0.jpeg);
+}
+
+.link-catalogo:nth-of-type(23) .catalogo {
+    background-image: url(../images/zindra-perfumes.jpeg);
+}
+
+.link-catalogo:nth-of-type(24) .catalogo {
+    background-image: url(../images/zindra-gafas.jpeg);
+}
+
+.link-catalogo:nth-of-type(25) .catalogo {
     background-image: url(../images/zindra-watch.jpeg);
 }
 
