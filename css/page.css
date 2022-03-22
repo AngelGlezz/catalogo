@@ -185,78 +185,59 @@
 }
 
 .link-catalogo:nth-of-type(1) .catalogo {
-    background-image: url(../images/1042870_0.jpeg);
+    background-image: url(../images/1050758_0.jpeg);
 }
-
 .link-catalogo:nth-of-type(2) .catalogo {
-    background-image: url(../images/1043091_0.jpeg);
+    background-image: url(../images/1050745_0.jpeg);
+    width: 100%;
+    height: 70%;
+    margin-top: 20%;
 }
-
 .link-catalogo:nth-of-type(3) .catalogo {
-    background-image: url(../images/1041071_0.jpeg);
+    background-image: url(../images/1050752_0.jpeg);
 }
-
 .link-catalogo:nth-of-type(4) .catalogo {
-    background-image: url(../images/importadoswinter2021_0.jpeg);
+    background-image: url(../images/1050755_0.jpeg);
 }
-
 .link-catalogo:nth-of-type(5) .catalogo {
-    background-image: url(../images/Confort2021_0.jpeg);
+    background-image: url(../images/1050749_0.jpeg);
+    width: 100%;
+    height: 70%;
+    margin-top: 20%;
 }
-
 .link-catalogo:nth-of-type(6) .catalogo {
-    background-image: url(../images/VestirCasual2021_0.jpeg);
+    background-image: url(../images/1049630_0.jpeg);
 }
-
 .link-catalogo:nth-of-type(7) .catalogo {
-    background-image: url(../images/Escolar2021_0.jpeg);
+    background-image: url(../images/1049264_0.jpeg);
 }
-
 .link-catalogo:nth-of-type(8) .catalogo {
-    background-image: url(../images/1034990_0.jpeg);
+    background-image: url(../images/1049274_0.jpeg);
 }
-
 .link-catalogo:nth-of-type(9) .catalogo {
-    background-image: url(../images/KidsT1OI21_0.jpeg);
+    background-image: url(../images/1048822_0.jpeg);
 }
-
 .link-catalogo:nth-of-type(10) .catalogo {
-    background-image: url(../images/todoenuno21_0.jpeg);
+    background-image: url(../images/1042320_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(11) .catalogo {
-    background-image: url(../images/jeansotoinv2021_0.jpeg);
+    background-image: url(../images/1042870_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(12) .catalogo {
-    background-image: url(../images/Botas2021_0.jpeg);
+    background-image: url(../images/1043091_0.jpeg);
 }
 
 .link-catalogo:nth-of-type(13) .catalogo {
-    background-image: url(../images/Caballeros20_21_0.jpeg);
-}
-
-.link-catalogo:nth-of-type(14) .catalogo {
-    background-image: url(../images/LovetoLounge_0.jpeg);
-}
-
-.link-catalogo:nth-of-type(15) .catalogo {
-    background-image: url(../images/Accesorios2021_0.jpeg);
-}
-
-.link-catalogo:nth-of-type(16) .catalogo {
-    background-image: url(../images/101143596_0.jpeg);
-}
-
-.link-catalogo:nth-of-type(17) .catalogo {
     background-image: url(../images/zindra-perfumes.jpeg);
 }
 
-.link-catalogo:nth-of-type(18) .catalogo {
+.link-catalogo:nth-of-type(14) .catalogo {
     background-image: url(../images/zindra-gafas.jpeg);
 }
 
-.link-catalogo:nth-of-type(19) .catalogo {
+.link-catalogo:nth-of-type(15) .catalogo {
     background-image: url(../images/zindra-watch.jpeg);
 }
 
