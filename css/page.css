@@ -190,7 +190,7 @@
 .link-catalogo:nth-of-type(2) .catalogo {
     background-image: url(../images/1050745_0.jpeg);
     width: 100%;
-    height: 70%;
+    height: 200px;
     margin-top: 20%;
 }
 .link-catalogo:nth-of-type(3) .catalogo {
@@ -202,7 +202,7 @@
 .link-catalogo:nth-of-type(5) .catalogo {
     background-image: url(../images/1050749_0.jpeg);
     width: 100%;
-    height: 70%;
+    height: 200px;
     margin-top: 20%;
 }
 .link-catalogo:nth-of-type(6) .catalogo {
