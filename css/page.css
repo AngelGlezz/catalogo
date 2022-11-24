@@ -229,25 +229,22 @@
     background-image: url(../images/1058069_0.jpeg);
 }
 .link-catalogo:nth-of-type(16) .catalogo {
-    background-image: url(../images/1062433_0.jpeg);
-}
-.link-catalogo:nth-of-type(17) .catalogo {
     background-image: url(../images/1057563_0.jpeg);
 }
-.link-catalogo:nth-of-type(18) .catalogo {
+.link-catalogo:nth-of-type(17) .catalogo {
     background-image: url(../images/1057367_0.jpeg);
 }
-.link-catalogo:nth-of-type(19) .catalogo {
+.link-catalogo:nth-of-type(18) .catalogo {
     background-image: url(../images/1056674_0.jpeg);
 }
 
-.link-catalogo:nth-of-type(20) .catalogo {
+.link-catalogo:nth-of-type(19) .catalogo {
     background-image: url(../images/zindra-perfumes.jpeg);
 }
-.link-catalogo:nth-of-type(21) .catalogo {
+.link-catalogo:nth-of-type(20) .catalogo {
     background-image: url(../images/zindra-gafas.jpeg);
 }
-.link-catalogo:nth-of-type(22) .catalogo {
+.link-catalogo:nth-of-type(21) .catalogo {
     background-image: url(../images/zindra-watch.jpeg);
 }
 
