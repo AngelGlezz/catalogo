@@ -184,82 +184,52 @@
     background-size: 100% 100%;
 }
 .link-catalogo:nth-of-type(1) .catalogo {
-    background-image: url(../images/1219139_0.jpg);
-}
-.link-catalogo:nth-of-type(2) .catalogo {
-    background-image: url(../images/1213446_0.jpg);
-}
-.link-catalogo:nth-of-type(3) .catalogo {
-    background-image: url(../images/1213442_0.jpg);
-}
-.link-catalogo:nth-of-type(4) .catalogo {
-    background-image: url(../images/1220550_0.jpg);
-}
-.link-catalogo:nth-of-type(5) .catalogo {
-    background-image: url(../images/1218953_0.jpg);
-}
-.link-catalogo:nth-of-type(6) .catalogo {
-    background-image: url(../images/1188549_0.jpg);
-}
-.link-catalogo:nth-of-type(7) .catalogo {
     background-image: url(../images/1184506_0.jpg);
 }
-.link-catalogo:nth-of-type(8) .catalogo {
+.link-catalogo:nth-of-type(2) .catalogo {
     background-image: url(../images/1183378_0.jpg);
 }
-.link-catalogo:nth-of-type(9) .catalogo {
+.link-catalogo:nth-of-type(3) .catalogo {
+    background-image: url(../images/1222441_0.jpg);
+}
+.link-catalogo:nth-of-type(4) .catalogo {
     background-image: url(../images/1185724_0.jpg);
 }
-.link-catalogo:nth-of-type(10) .catalogo {
+.link-catalogo:nth-of-type(5) .catalogo {
+    background-image: url(../images/1147156_0.jpg);
+}
+.link-catalogo:nth-of-type(6) .catalogo {
     background-image: url(../images/1169117_0.jpg);
+}
+.link-catalogo:nth-of-type(7) .catalogo {
+    background-image: url(../images/1222930_0.jpg);
+}
+.link-catalogo:nth-of-type(8) .catalogo {
+    background-image: url(../images/1189878_0.jpg);
+}
+.link-catalogo:nth-of-type(9) .catalogo {
+    background-image: url(../images/1219029_0.jpg);
+}
+.link-catalogo:nth-of-type(10) .catalogo {
+    background-image: url(../images/1193308_0.jpg);
 }
 .link-catalogo:nth-of-type(11) .catalogo {
     background-image: url(../images/1186739_0.jpg);
 }
 .link-catalogo:nth-of-type(12) .catalogo {
-    background-image: url(../images/1189878_0.jpg);
-}
-.link-catalogo:nth-of-type(13) .catalogo {
-    background-image: url(../images/1182051_0.jpg);
-}
-.link-catalogo:nth-of-type(14) .catalogo {
-    background-image: url(../images/1187361_0.jpg);
-}
-.link-catalogo:nth-of-type(15) .catalogo {
-    background-image: url(../images/1216590_0.jpg);
-}
-.link-catalogo:nth-of-type(16) .catalogo {
-    background-image: url(../images/1196217_0.jpg);
-}
-.link-catalogo:nth-of-type(17) .catalogo {
-    background-image: url(../images/1147156_0.jpg);
-}
-.link-catalogo:nth-of-type(18) .catalogo {
-    background-image: url(../images/1187357_0.jpg);
-}
-.link-catalogo:nth-of-type(19) .catalogo {
-    background-image: url(../images/1219029_0.jpg);
-}
-.link-catalogo:nth-of-type(20) .catalogo {
-    background-image: url(../images/1193308_0.jpg);
-}
-.link-catalogo:nth-of-type(21) .catalogo {
-    background-image: url(../images/1201304_0.jpg);
-}
-.link-catalogo:nth-of-type(22) .catalogo {
-    background-image: url(../images/1190749_0.jpg);
-}
-.link-catalogo:nth-of-type(23) .catalogo {
     background-image: url(../images/1207365_0.jpg);
 }
+.link-catalogo:nth-of-type(13) .catalogo {
+    background-image: url(../images/1207369_0.jpg);
+}
 
-.link-catalogo:nth-of-type(24) .catalogo {
+.link-catalogo:nth-of-type(14) .catalogo {
     background-image: url(../images/zindra-perfumes.jpeg);
 }
-.link-catalogo:nth-of-type(25) .catalogo {
+.link-catalogo:nth-of-type(15) .catalogo {
     background-image: url(../images/zindra-gafas.jpeg);
 }
-.link-catalogo:nth-of-type(26) .catalogo {
+.link-catalogo:nth-of-type(16) .catalogo {
     background-image: url(../images/zindra-watch.jpeg);
 }
 
