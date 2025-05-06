@@ -225,17 +225,14 @@
 .link-catalogo:nth-of-type(14) .catalogo {
     background-image: url(../images/1219825_0.jpg);
 }
-.link-catalogo:nth-of-type(15) .catalogo {
-    background-image: url(../images/1219029_0.jpg);
-}
 
-.link-catalogo:nth-of-type(16) .catalogo {
+.link-catalogo:nth-of-type(15) .catalogo {
     background-image: url(../images/zindra-perfumes.jpeg);
 }
-.link-catalogo:nth-of-type(17) .catalogo {
+.link-catalogo:nth-of-type(16) .catalogo {
     background-image: url(../images/zindra-gafas.jpeg);
 }
-.link-catalogo:nth-of-type(18) .catalogo {
+.link-catalogo:nth-of-type(17) .catalogo {
     background-image: url(../images/zindra-watch.jpeg);
 }
 
