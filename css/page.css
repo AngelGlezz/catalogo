@@ -184,7 +184,7 @@
     background-size: 100% 100%;
 }
 .link-catalogo:nth-of-type(1) .catalogo {
-    background-image: url(../images/1258396_0.jpg);
+    background-image: url(../images/1264941_0.jpg);
 }
 .link-catalogo:nth-of-type(2) .catalogo {
     background-image: url(../images/1262672_0.jpg);
@@ -225,14 +225,17 @@
 .link-catalogo:nth-of-type(14) .catalogo {
     background-image: url(../images/1261868_0.jpg);
 }
-
 .link-catalogo:nth-of-type(15) .catalogo {
+    background-image: url(../images/1267010_0.jpg);
+}
+
+.link-catalogo:nth-of-type(16) .catalogo {
     background-image: url(../images/zindra-perfumes.jpeg);
 }
-.link-catalogo:nth-of-type(16) .catalogo {
+.link-catalogo:nth-of-type(17) .catalogo {
     background-image: url(../images/zindra-gafas.jpeg);
 }
-.link-catalogo:nth-of-type(17) .catalogo {
+.link-catalogo:nth-of-type(18) .catalogo {
     background-image: url(../images/zindra-watch.jpeg);
 }
 
