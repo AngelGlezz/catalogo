@@ -184,13 +184,13 @@
     background-size: 100% 100%;
 }
 .link-catalogo:nth-of-type(1) .catalogo {
-    background-image: url(../images/1264941_0.jpg);
+    background-image: url(../images/1313617_0.jpg);
 }
 .link-catalogo:nth-of-type(2) .catalogo {
     background-image: url(../images/1262672_0.jpg);
 }
 .link-catalogo:nth-of-type(3) .catalogo {
-    background-image: url(../images/1222437_0.jpg);
+    background-image: url(../images/1315923_0.jpg);
 }
 .link-catalogo:nth-of-type(4) .catalogo {
     background-image: url(../images/1235300_0.jpg);
@@ -199,43 +199,22 @@
     background-image: url(../images/1260686_0.jpg);
 }
 .link-catalogo:nth-of-type(6) .catalogo {
-    background-image: url(../images/1265241_0.jpg);
-}
-.link-catalogo:nth-of-type(7) .catalogo {
-    background-image: url(../images/1261113_0.jpg);
-}
-.link-catalogo:nth-of-type(8) .catalogo {
     background-image: url(../images/1266063_0.jpg);
 }
-.link-catalogo:nth-of-type(9) .catalogo {
+.link-catalogo:nth-of-type(7) .catalogo {
     background-image: url(../images/1258451_0.jpg);
 }
-.link-catalogo:nth-of-type(10) .catalogo {
+.link-catalogo:nth-of-type(8) .catalogo {
     background-image: url(../images/1260279_0.jpg);
 }
-.link-catalogo:nth-of-type(11) .catalogo {
-    background-image: url(../images/1283945_0.jpg);
-}
-.link-catalogo:nth-of-type(12) .catalogo {
-    background-image: url(../images/1261878_0.jpg);
-}
-.link-catalogo:nth-of-type(13) .catalogo {
-    background-image: url(../images/1268122_0.jpg);
-}
-.link-catalogo:nth-of-type(14) .catalogo {
-    background-image: url(../images/1283625_0.jpg);
-}
-.link-catalogo:nth-of-type(15) .catalogo {
-    background-image: url(../images/1267010_0.jpg);
-}
 
-.link-catalogo:nth-of-type(16) .catalogo {
+.link-catalogo:nth-of-type(9) .catalogo {
     background-image: url(../images/zindra-perfumes.jpeg);
 }
-.link-catalogo:nth-of-type(17) .catalogo {
+.link-catalogo:nth-of-type(10) .catalogo {
     background-image: url(../images/zindra-gafas.jpeg);
 }
-.link-catalogo:nth-of-type(18) .catalogo {
+.link-catalogo:nth-of-type(11) .catalogo {
     background-image: url(../images/zindra-watch.jpeg);
 }
 
